@@ -38,6 +38,14 @@
 					<key>XCSourceEditorCommandName</key>
 					<string>Delete Lines</string>
 				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SourceEditorCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>duplicate_lines</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Duplicate Lines</string>
+				</dict>
 			</array>
 			<key>XCSourceEditorExtensionPrincipalClass</key>
 			<string>$(PRODUCT_MODULE_NAME).SourceEditorExtension</string>
