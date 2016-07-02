@@ -7,10 +7,11 @@ Here is a [blog post](http://allblue.me/xcode/2016/06/28/Build-your-own-Xcode-8-
 
 - [x] Delete Lines
 - [x] Duplicate Lines
-- [ ] Align Lines
 - [ ] Auto format line-split string
 - [ ] Toggle string cases
 - [ ] Block commenter
+
+Any idea for the new feature? Please file an issue and tell me more.
 
 ## Usage
 Clone & Run project with Xcode 8
